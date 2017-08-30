@@ -2,7 +2,8 @@
 
 ** The personal repository **
 
-[the license file](https://github.com/ranjithae/8086-Assignments/blob/master/LICENSE)  I have taken the GNU General Public License v3.0
+[the license file](https://github.com/ranjithae/8086-Assignments/blob/master/LICENSE).  
+I have taken the GNU General Public License v3.0
 >i will be the contributor for this repository. I have choosen the 
 
 ## The contents that would be included within it:
