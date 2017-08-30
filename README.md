@@ -1,6 +1,6 @@
 # _8086-Assignments_
 
-** The personal repository **
+**The personal repository**
 
 [the license file](https://github.com/ranjithae/8086-Assignments/blob/master/LICENSE).  
 I have taken the GNU General Public License v3.0
