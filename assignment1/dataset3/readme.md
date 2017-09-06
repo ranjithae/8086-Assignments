@@ -4,7 +4,7 @@ The snow removal dataset contains the location attributes of DC snow routes whic
 This information is gathered and will be helpful for the DPW and DDOT departments.
 It has the measure of snow with respect to each location their measure before and after.This excel provides us on the alert on the route letting us know the priority level as primary, secondary or priority hills.
 
-The data is in excel format.  It has all the required information which is easy to understand and crisp.  There are in total 12 columns which has the following headers.
+The data is in excel format as csv file.  It has all the required information which is easy to understand and crisp.  There are in total 12 columns which has the following headers.
 * OBJECTID
 * STREETSEGID
 * SSD_ID
