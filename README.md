@@ -18,6 +18,6 @@ As this will be my personal repository for future assigments.
 ## Assignment 2 - **Information Seeking**
 I have added three new data set CatvsDogs, snow removal routes - DC and Death rates in England and Wales to this repository.The links for the repository are as follows:
 
-* [catsvsdogs](https://github.com/ranjithae/8086-Assignments/tree/master/assignment1/dataset3) 
-* [ Death rates in England and Wales](https://github.com/ranjithae/8086-Assignments/tree/master/assignment1/dataset2)
+* [CatsvsDogs](https://github.com/ranjithae/8086-Assignments/tree/master/assignment1/dataset3) 
+* [Death rates in England and Wales](https://github.com/ranjithae/8086-Assignments/tree/master/assignment1/dataset2)
 * [Snow Removal Routes - DC](https://github.com/ranjithae/8086-Assignments/tree/master/assignment1/dataset3)
