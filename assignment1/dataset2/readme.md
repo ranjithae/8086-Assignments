@@ -1,5 +1,4 @@
-#**Regsitered Death figure in England and Wales**
-
+# Regsitered Death figures in England and Wales
 This datset gives us a picture on the death rates in England and wales. It has monthly values for each specific place of England and wales. I have chosen the death rates sheet for the current year. 
 And so, this dataset has the death rates until the month of July. These figures are the death registered by areas of usual residence.
 
