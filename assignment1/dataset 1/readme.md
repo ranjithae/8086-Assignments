@@ -1,4 +1,4 @@
-#CATS Vs DOGS
+# CATS Vs DOGS
 
 As we can figure out from the name itself this dataset is about pet owners. It gives a detailed information on the number of household people for 1000 in each state in USA.  
 The number of dogs and cats in each state and the percentage of dogs and cats being owned as pets by households
@@ -27,6 +27,6 @@ This data would be helpful to win a argument between cat and dog lovers.
 Helps to analyze a data how many dogs and cats can be adopted by a household.  
 Let know where is the necessity for more vetrian doctors.  
 
-_References:_  
+### _References:_  
 Resources.” Tableau Public, 19 Sept. 2016, public.tableau.com/en-us/s/resources  
 “ U.S. Pet Ownership & Demographics Sourcebook (2012).” U.S. Pet Ownership & Demographics Sourcebook (2012), www.avma.org/kb/resources/statistics/pages/market-research-statistics-us-pet-ownership-demographics-sourcebook.aspx.
