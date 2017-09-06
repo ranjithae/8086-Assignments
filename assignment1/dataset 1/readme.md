@@ -1,7 +1,6 @@
 # CATS Vs DOGS
 
-As we can figure out from the name itself this dataset is about pet owners. It gives a detailed information on the number of household people for 1000 in each state in USA.  
-The number of dogs and cats in each state and the percentage of dogs and cats being owned as pets by households
+I got interested by the name itself "CatsVsDOgs".This dataset is about household pet owners in USA. It gives a detailed information on the number of household people in count of 1000, number of cats and dogs, how many own a pet etc..The number of dogs and cats in each state and the percentage of dogs and cats being owned as pets by households. Very interesting to people who love pets.
 
 The data is in excel format. It has 12 columns and 49 rows covering the states of USA.
 
