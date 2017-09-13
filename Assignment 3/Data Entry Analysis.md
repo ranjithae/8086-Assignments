@@ -27,6 +27,8 @@ We can add time next to the date coulmn.
 * I have mentioned the time as a separate column. So that we can have the timings entered on when the data is being captured.
 * I have added a column Species Name instead of separate column for Cuni and chippo.  User can filter data based on the species required.
 * The units are mentioned on the column header whichever is requird.
+* The graphs can be drawn for the both species separately considering the depth, density and colony size.
+* I would have the average being mentioned with the Header as average Colony size, date and the species name this should be easy to figure out. 
 
 > I would like to have the date, depth, time and temp column first has they have the repeated values that makes easier for the researcher or the target audience.
 
@@ -34,3 +36,10 @@ We can add time next to the date coulmn.
 |------|------|----------------|-----------------------------|--------------|---------------------------|--------------------------------------------|------|
 |      |      |                |                             |              |                           |                                            |      |
 
+
+| Date       | Species Name | Average Colony Size |
+|------------|--------------|---------------------|
+| 07/09/2017 | Cuni         | 2.34                |
+| 07/09/2017 | Chippo       | 3.45                |
+| 07/10/2017 | Cuni         | 3.56                |
+| 07/10/2017 | Chippo       | 4.36                |
