@@ -18,7 +18,9 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 * Oxygen Content
 * Minerals content( Phospate, nitrate & Silicic acid) 
 * Fertilization level
-* Vitamin B 
+* Vitamin B  
+
+
 | Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Value of Oxygen  |Mineral|   |   |
 |------|-------|------|--------------|------------------|----------------|--------------------|-------------|------------------|---|---|---|
 |      |       |      |              |                  |                |                    |             |                  |   |   |   |
