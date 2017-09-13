@@ -14,6 +14,7 @@ We can add time next to the date coulmn.
 * The graph plotted in both spreadsheets are for different columns. And the x and y values are not mentioned for these graphs.
 * There are few fields highlighted in the spreadsheet and no explanation is mentioned.
 * The Units are not mentioned for the required columns.
+* The averages are calculated and placed on top of the sheet. But no proper description with respect to headers was provided.
 
 ### Additional Ideas: 
 > This would be my suggestion to organize the data based on the depth level.The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
@@ -22,15 +23,14 @@ We can add time next to the date coulmn.
 ## Task 2:
 **File Name:** PlanktonStudy V.0
 ### Solutions
-* I have added a table that has consistent column header.
+* The table below has headers that would be consistent column header.
 * The above mentioned filename would be consitent file name and can change the version number later on.
-* I have mentioned the time as a separate column. So that we can have the timings entered on when the data is being captured.
-* I have added a column Species Name instead of separate column for Cuni and chippo.  User can filter data based on the species required.
-* The units are mentioned on the column header whichever is requird.
-* The graphs can be drawn for the both species separately considering the depth, density and colony size.
-* I would have the average being mentioned with the Header as average Colony size, date and the species name this should be easy to figure out. 
-
-> I would like to have the date, depth, time and temp column first has they have the repeated values that makes easier for the researcher or the target audience.
+* A column to note the tiimings has been added. So that we can have the timings entered on when the data is being captured.
+* I have added a column Species Name instead of separate column for Cuni and chippo density and column size.  User can filter data based on the species required.
+* The units are mentioned on the column header wherever it is required.
+* The graphs can be drawn for the both species separately considering the depth, density or colony size.
+* I would have the average being mentioned with the Header as date, the species name and average colony size this should be easy to figure out. 
+* The date, depth, time and temp column are in the first of the table has they have the repeated values that makes the work easier for the researcher or the target audience.
 
 | Date | Time | Depth (meters) | Temp (Farenheit or celcius) | Species Name | Colony Size (Millimaters) | Density (Cubic Centimeters or milliliters) | Chla |
 |------|------|----------------|-----------------------------|--------------|---------------------------|--------------------------------------------|------|
