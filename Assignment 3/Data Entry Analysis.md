@@ -32,10 +32,13 @@ We can add time next to the date coulmn.
 * I would have the average being mentioned with the Header as date, the species name and average colony size this should be easy to figure out. 
 * The date, depth, time and temp column are in the first of the table has they have the repeated values that makes the work easier for the researcher or the target audience.
 
+**Table:**
+
 | Date | Time | Depth (meters) | Temp (Farenheit or celcius) | Species Name | Colony Size (Millimaters) | Density (Cubic Centimeters or milliliters) | Chla |
 |------|------|----------------|-----------------------------|--------------|---------------------------|--------------------------------------------|------|
 |      |      |                |                             |              |                           |                                            |      |
 
+**Colony Size Averages:**
 
 | Date       | Species Name | Average Colony Size |
 |------------|--------------|---------------------|
