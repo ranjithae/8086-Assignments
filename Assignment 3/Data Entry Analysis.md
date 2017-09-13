@@ -46,3 +46,5 @@ We can add time next to the date coulmn.
 | 07/09/2017 | Chippo       | 3.45                |
 | 07/10/2017 | Cuni         | 3.56                |
 | 07/10/2017 | Chippo       | 4.36                |
+
+This would be added to end or side of the table on the spreadsheet.
