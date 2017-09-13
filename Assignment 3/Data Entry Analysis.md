@@ -12,6 +12,7 @@ We can add time also with the date coulmn to the readings.
 * There are three samples for each depth on a daily basis, but it is mentioned that readings are taken twice.  There is no understanding on the three readings provided.
 * The graph plotted in both spreadsheets are for different columns. And the x and y values are not mentioned for these graphs.
 * There are few fields highlighted in the spreadsheet and no explanation is mentioned.
+* The Units are not mentioned for the required columns.
 
 ### Additional Ideas: 
 > This would be my suggestion to organize the data based on the depth level.The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
@@ -23,9 +24,13 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 
 ## Task 2:
 **File Name:** PlanktonStudy V.0
+### Solutions
+* I have added a table that has consistent column header.
+* The above mentioned filename would be consitent file name and can change the version number later on.
+
 > I would like to have the date, depth and temp column first has they have the repeated values that makes easier to the researcher or the target audience.
 
-| Date & Time | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Oxygen Level | Mineral Value | Vitamin B |
-|------|-------|------|--------------|------------------|----------------|--------------------|-------------|--------------|---------------|-----------|
-|      |       |      |              |                  |                |                    |             |              |               |           |
+| Date | Time | Depth in meters | Temp in fahrenheit/Celcius | Species Name | Density (cubic centimeters / milliliters) | Colony Size (CFU) | Cholorphyla | Value of Oxygen  | Mineral |  
+|------|------|-----------------|----------------------------|--------------|-------------------------------------------|-------------------|-------------|------------------|---------|---|---|
+|      |      |                 |                            |              |                                           |                   |             |                  |         |
 
