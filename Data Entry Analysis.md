@@ -20,7 +20,9 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 * Fertilization level
 * Vitamin B  
 
+## Task 2:
+**File Name:** PlanktonStudy V.0
 
-| Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Level of Oxygen  |Mineral Value| Vitamin B |
-|------|-------|------|--------------|------------------|----------------|--------------------|-------------|------------------|---|---|---|
-|      |       |      |              |                  |                |                    |             |                  |   |   |
+| Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Oxygen Level | Mineral Value | Vitamin B |
+|------|-------|------|--------------|------------------|----------------|--------------------|-------------|--------------|---------------|-----------|
+|      |       |      |              |                  |                |                    |             |              |               |           |
