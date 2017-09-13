@@ -19,7 +19,6 @@ We can add a column to capture the time to the readings.
 Below mentioned can be added columns to the spreadsheet that can help in providing better and quick understanding on the study.
 * Oxygen Content
 * Minerals content( Phospate, nitrate & Silicic acid) 
-* Fertilization level
 * Vitamin B  
 
 ## Task 2:
