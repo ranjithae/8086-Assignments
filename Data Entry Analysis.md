@@ -12,7 +12,8 @@ We can add a column to capture the time to the readings.
 * There are three samples for each depth on a daily basis, but it is mentioned that readings are taken twice.  There is no understanding on the three readings provided.
 * The graph plotted in both spreadsheets are for different columns. And the x and y values are not mentioned for these graphs.
 * There are few fields highlighted in the spreadsheet and no explanation is mentioned.
-* The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
+
+> This would be my suggestion to organize the data based on the depth level.The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
 
 Below mentioned can be added columns to the spreadsheet that can help in providing better and quick understanding on the study.
 * Oxygen Content
