@@ -13,6 +13,7 @@ We can add a column to capture the time to the readings.
 * The graph plotted in both spreadsheets are for different columns. And the x and y values are not mentioned for these graphs.
 * There are few fields highlighted in the spreadsheet and no explanation is mentioned.
 
+### Additional Ideas: 
 > This would be my suggestion to organize the data based on the depth level.The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
 
 Below mentioned can be added columns to the spreadsheet that can help in providing better and quick understanding on the study.
@@ -23,6 +24,7 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 
 ## Task 2:
 **File Name:** PlanktonStudy V.0
+> I would like to have the date, depth and temp column first has they have the repeated values that makes easier to the researcher or the target audience.
 
 | Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Oxygen Level | Mineral Value | Vitamin B |
 |------|-------|------|--------------|------------------|----------------|--------------------|-------------|--------------|---------------|-----------|
