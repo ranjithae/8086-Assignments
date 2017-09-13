@@ -8,8 +8,9 @@
 * The File naming can be made better by providing versions in that way it would be easy to track and consistent.
 * There are varying columns among the three sheets. Its good to maintain consistent column every year.
 * It’s clearly mentioned that the scientists collect data twice but nowhere the time it is captured in the spreadsheet.  
-We can add time also with the date coulmn to the readings.
+We can add time next to the date coulmn.
 * There are three samples for each depth on a daily basis, but it is mentioned that readings are taken twice.  There is no understanding on the three readings provided.
+* The zoom sheet has the cuni and chippo has separate column whereas the pond excel has species name, i would prefer using just the species name alone.
 * The graph plotted in both spreadsheets are for different columns. And the x and y values are not mentioned for these graphs.
 * There are few fields highlighted in the spreadsheet and no explanation is mentioned.
 * The Units are not mentioned for the required columns.
@@ -17,20 +18,19 @@ We can add time also with the date coulmn to the readings.
 ### Additional Ideas: 
 > This would be my suggestion to organize the data based on the depth level.The depth should be a separate category to differentiate the samples collected has they are collected from different layers.  Not sure if we can draw conclusion for samples collected from various depths.  In this way we can easily figure out the growth measure like the cuni or Chippo density by looking at the table.
 
-Below mentioned can be added columns to the spreadsheet that can help in providing better and quick understanding on the study.
-* Oxygen Content
-* Minerals content( Phospate, nitrate & Silicic acid) 
-* Vitamin B  
 
 ## Task 2:
 **File Name:** PlanktonStudy V.0
 ### Solutions
 * I have added a table that has consistent column header.
 * The above mentioned filename would be consitent file name and can change the version number later on.
+* I have mentioned the time as a separate column. So that we can have the timings entered on when the data is being captured.
+* I have added a column Species Name instead of separate column for Cuni and chippo.  User can filter data based on the species required.
+* The units are mentioned on the column header whichever is requird.
 
-> I would like to have the date, depth and temp column first has they have the repeated values that makes easier to the researcher or the target audience.
+> I would like to have the date, depth, time and temp column first has they have the repeated values that makes easier for the researcher or the target audience.
 
-| Date | Time | Depth in meters | Temp in Farenheit or celcius | Species Name | Colony Size | Density | Chla | Oxygen Level | Mineral Value |
-|------|------|-----------------|------------------------------|--------------|-------------|---------|------|--------------|---------------|
-|      |      |                 |                              |              |             |         |      |              |               |
+| Date | Time | Depth (meters) | Temp (Farenheit or celcius) | Species Name | Colony Size (Millimaters) | Density (Cubic Centimeters or milliliters) | Chla |
+|------|------|----------------|-----------------------------|--------------|---------------------------|--------------------------------------------|------|
+|      |      |                |                             |              |                           |                                            |      |
 
