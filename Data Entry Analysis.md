@@ -21,6 +21,6 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 * Vitamin B  
 
 
-| Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Value of Oxygen  |Mineral|   |   |
+| Date | Depth | Temp | Cuni Density | Cuni Colony Size | Chippo Density | Chippo Colony Size | Cholorphyla | Level of Oxygen  |Mineral Value| Vitamin B |
 |------|-------|------|--------------|------------------|----------------|--------------------|-------------|------------------|---|---|---|
-|      |       |      |              |                  |                |                    |             |                  |   |   |   |
+|      |       |      |              |                  |                |                    |             |                  |   |   |
