@@ -30,7 +30,7 @@ Below mentioned can be added columns to the spreadsheet that can help in providi
 
 > I would like to have the date, depth and temp column first has they have the repeated values that makes easier to the researcher or the target audience.
 
-| Date | Time | Depth in meters | Temp in fahrenheit/Celcius | Species Name | Density (cubic centimeters / milliliters) | Colony Size (CFU) | Cholorphyla | Value of Oxygen  | Mineral |  
-|------|------|-----------------|----------------------------|--------------|-------------------------------------------|-------------------|-------------|------------------|---------|---|---|
-|      |      |                 |                            |              |                                           |                   |             |                  |         |
+| Date | Time | Depth in meters | Temp in Farenheit or celcius | Species Name | Colony Size | Density | Chla | Oxygen Level | Mineral Value |
+|------|------|-----------------|------------------------------|--------------|-------------|---------|------|--------------|---------------|
+|      |      |                 |                              |              |             |         |      |              |               |
 
